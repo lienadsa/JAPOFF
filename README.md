@@ -1,1 +1,1 @@
-Japoff is an E-commerce market place specifically built for the second hand market, the app is targeted at people looking to urgently sell off their properties due relocation or other situations that do not give them enough time to properly get a seller.
+Japoff is an E-commerce market place specifically built for the second hand market, the app is targeted at people looking to urgently sell off their properties due relocation or other situations that do not give them enough time to properly get a seller. 

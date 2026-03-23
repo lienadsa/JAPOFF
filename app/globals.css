@@ -21,6 +21,15 @@
 
 body {
   background: var(--background);
-  color: var(--foreground);
+  color: var(--foreground); 
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+  font-family: "Asgard";
+  src: url("/fonts/asgard2/fonnts.com-asgard-bold.otf") format("opentype"),
+}
+
+.font-asgard {
+  font-family: "Asgard", sans-serif;
 }
